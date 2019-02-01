@@ -34,6 +34,12 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 .p-r {
   position: relative;
 }
@@ -155,6 +161,11 @@ a:hover {
 
 .subtitle-a {
   color: #4e4e4e;
+}
+
+.subtitle-b {
+  color: #4e4e4e;
+  font-size: 2rem;
 }
 
 .line-mf {
@@ -709,6 +720,7 @@ a:hover {
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  min-height: 20rem;
 }
 
 .service-box:hover .ico-circle {
