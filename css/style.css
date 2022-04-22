@@ -740,7 +740,7 @@ a:hover {
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
-  min-height: 20rem;
+  min-height: 15rem;
 }
 
 .service-box:hover .ico-circle {
