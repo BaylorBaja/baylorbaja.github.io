@@ -103,6 +103,20 @@ a:hover {
   opacity: .7;
 }
 
+.overlay-mfGold {
+  background-color: #ffb81c;
+}
+
+.overlay-mfGold {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  opacity: .5;
+}
+
 .paralax-mf {
   position: relative;
   padding: 8rem 0;
