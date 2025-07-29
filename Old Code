@@ -1,0 +1,1090 @@
+<!--
+Dear Programmer:
+When I wrote this code, only God and I knew how it worked.
+Now, only god knows it!
+
+Therefore, if you are trying to optimize this routine
+and it fails (most surely),
+please increase this counter as a warning for the next person:
+
+total_hours_wasted_here = 56
+-->
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW03DJS7G1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CW03DJS7G1');
+    </script>
+
+    <meta charset="utf-8">
+    <title>Baylor Baja SAE: Baylor's Racing Club</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="keywords" content="baylor,baja,baylor baja,racing club,baylor racing club,baylor offroad,baylor sae,sae,automotive engineers,baylor automotive engineers">
+    <meta name="description" content="The main objective of Baylor Baja is to provide Baylor engineering students the opportunity to learn how mechanical and electrical systems work outside of the classroom.">
+
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <!link href="https://www.baylor.edu/favicon.ico" rel="icon">
+        <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+        <!-- Bootstrap CSS File -->
+        <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Libraries CSS Files -->
+        <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+        <!-- Main Stylesheet File -->
+        <link href="css/style.css" rel="stylesheet">
+
+        <!-- =======================================================
+    Theme Name: DevFolio
+    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body id="page-top">
+
+
+    <!--/ Nav Star /-->
+    <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll" href="#page-top">Baylor Baja</a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
+        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+            <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll active" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll" href="#gallery">Gallery</a>
+                    </li>
+                    <!--<li class="nav-item">
+            <a class="nav-link js-scroll" href="#testimonial">Testimonials</a>
+          </li>-->
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll" href="#sponsors">Sponsors</a>
+                    </li>
+                    <!--<li class="nav-item">
+                        <a class="nav-link js-scroll" href="#calendar">Calendar</a>
+                    </li>-->
+                    <!--<li class="nav-item">
+            <a class="nav-link js-scroll" href="#blog">Blog</a>
+          </li>-->
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--/ Nav End /-->
+
+    <!--/ Intro Skew Star /-->
+    <div id="home" class="intro route bg-image"
+        style="background-image: url('https://static.wixstatic.com/media/76e0e7_303daa7ea9164736811d300db843cbbd~mv2_d_2048_1366_s_2.png/v1/fill/w_1920,h_1281,al_c,q_85,usm_0.66_1.00_0.01/76e0e7_303daa7ea9164736811d300db843cbbd~mv2_d_2048_1366_s_2.webp')">
+        <div class="overlay-itro"></div>
+        <div class="intro-content display-table">
+            <div class="table-cell">
+                <div class="container">
+                    <!--<p class="display-6 color-d">Hello, world!</p>-->
+                    <h1 class="intro-title mb-4">The Baja Project...</h1>
+
+                    <p class="intro-subtitle">
+                        <span class="text-slider-items">Design, Build, Compete</span><strong class="text-slider"></strong>
+                    </p>
+                    <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/ Intro Skew End /-->
+
+    <section id="about" class="about-mf sect-pt4 route">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="title-box text-center">
+                        <h3 class="title-a">
+                            What We Do
+                        </h3>
+                        <div class="line-mf"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box-shadow-full">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="about-me pt-4 pt-md-0">
+                                    <div class="title-box-2">
+                                        <h5 class="title-left">
+                                            Our Mission
+                                        </h5>
+                                    </div>
+                                    <p class="lead">
+                                        The mission of Baylor Baja is not all about vehicle racing. The main objective
+                                        is to provide Baylor engineering students the opportunity to learn how
+                                        mechanical and electrical systems work outside of the classroom. Engineering
+                                        students gain invaluable hands-on experience in both design and fabrication, all
+                                        the while learning how systems can come together to develop into a whole. We are
+                                        dedicated to honing the skills of the engineering students at Baylor and
+                                        preparing them for any challenge that may come his or her way. Building an
+                                        off-road performance vehicle is the perfect way to do so.
+                                    </p>
+                                    <!--<p>More Information -</p>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="section-counter paralax-mf bg-image" style="background-image: url(img/bg_3.webp)">
+        <div class="overlay-mf"></div>
+        <!--video here-->
+        <center>
+            <div style="padding:56.25% 0 0 0;position:relative;max-width:80%;"><iframe
+                    src="https://player.vimeo.com/video/809984393?h=33eb07004c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                    frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+                    style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Baylor Baja"></iframe></div>
+            <script src="https://player.vimeo.com/api/player.js"></script>
+        </center>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-1 col-lg-1">
+                </div>
+                <div class="col-sm-2 col-lg-2">
+                    <div class="counter-box">
+                        <div class="counter-ico">
+                            <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
+                        </div>
+                        <!--div class="counter-num">
+              <p class="counter">55</p>-->
+                        <span class="counter-text">TRACTOR PULL</span>
+                        <!--/div>-->
+                    </div>
+                </div>
+                <div class="col-sm-2 col-lg-2">
+                    <div class="counter-box pt-4 pt-md-0">
+                        <div class="counter-ico">
+                            <span class="ico-circle"><i class="ion-ios-cloudy-night"></i></span>
+                        </div>
+                        <!--div class="counter-num">
+              <p class="counter">50</p>-->
+                        <span class="counter-text">ENDURANCE</span>
+                        <!--/div>-->
+                    </div>
+                </div>
+                <div class="col-sm-2 col-lg-2">
+                    <div class="counter-box pt-4 pt-md-0">
+                        <div class="counter-ico">
+                            <span class="ico-circle"><i class="ion-arrow-graph-up-right"></i></span>
+                        </div>
+                        <!--div class="counter-num">
+              <p class="counter">68</p>-->
+                        <span class="counter-text">HILL CLIMB</span>
+                        <!--/div>-->
+                    </div>
+                </div>
+                <div class="col-sm-2 col-lg-2">
+                    <div class="counter-box pt-4 pt-md-0">
+                        <div class="counter-ico">
+                            <span class="ico-circle"><i class="ion-speedometer"></i></span>
+                        </div>
+                        <!--div class="counter-num">
+              <p class="counter">55</p>-->
+                        <span class="counter-text">ACCELERATION</span>
+                        <!--/div>-->
+                    </div>
+                </div>
+                <div class="col-sm-2 col-lg-2">
+                    <div class="counter-box pt-4 pt-md-0">
+                        <div class="counter-ico">
+                            <span class="ico-circle"><i class="ion-gear-b"></i></span>
+                        </div>
+                        <!--div class="counter-num">
+              <p class="counter">51</p>-->
+                        <span class="counter-text">ROCK CRAWL</span>
+                        <!--/div>-->
+                    </div>
+                </div>
+                <div class="col-sm-1 col-lg-1">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--/ Section Portfolio Star /-->
+    <section id="gallery" class="portfolio-mf sect-pt4 route">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="title-box text-center">
+                        <h3 class="title-a">
+                            Gallery
+                        </h3>
+                        <p class="subtitle-a">
+                            Featured pictures from present/past Baja teams ...
+                        </p>
+                        <div class="line-mf"></div>
+                    </div>
+                </div>
+            </div>
+             <div class="row">
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <!a href="https://photos.app.goo.gl/4Pfe4yJEf6hQTMLXA">
+                            <div class="work-img">
+                                <img src="img/teams/22-23.JPG" alt="" class="img-fluid" >
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2023-2024 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">TBD</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>         
+           
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <!a href="https://photos.app.goo.gl/Gt1WgvHDi3R6LrZa6">
+                            <div class="work-img">
+                                <img src="img/teams/22-23.JPG" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2022-2023 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">The Hulk Gen 2</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://photos.app.goo.gl/4Pfe4yJEf6hQTMLXA">
+                            <div class="work-img">
+                                <img src="img/teams/18_19.webp" alt="" class="img-fluid" >
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2018-2019 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Day</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://photos.app.goo.gl/hFYQ3BC7e5BpKTGV7">
+                            <div class="work-img">
+                                <img src="img/teams/17_18.JPG" alt="" class="img-fluid" >
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2017-2018 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Day</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a
+                            href="https://photos.google.com/share/AF1QipNk74Yl7bOic6fpwrf1w-h26n7oJbkU3VOpWf9xKsjzMsfGVMou7Lz81i72L52S6A?key=WEJWYkxMNGYtZmlqYWluemN5UE1za3ZpTmU2cEJB">
+                            <div class="work-img">
+                                <img src="img/teams/16_17.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2016-2017 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Night</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a
+                            href="https://photos.google.com/share/AF1QipPkVc3w6gtRmkrIiHnSzUP56VgctD7kDq3vzQbuZQkdHyWPLb1i67H_zLfBae7DjA?key=Ukt0dWNhRjF1el96YjlVeVpnRVdEcjR0clJvWVZR">
+                            <div class="work-img">
+                                <img src="img/teams/15_16.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2015-2016 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Night</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://goo.gl/photos/qfw5rvR8aokchwhc7">
+                            <div class="work-img">
+                                <img src="img/teams/14_15.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2014-2015 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Judge</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://goo.gl/photos/23Y1sC6KJroX7Ehc6">
+                            <div class="work-img">
+                                <img src="img/teams/13_14.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2013-2014 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Green & Gold</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://goo.gl/photos/YNUvhPn21VEH4FMDA">
+                            <div class="work-img">
+                                <img src="img/teams/12_13.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2012-2013 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">Green Machine</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="work-box">
+                        <a href="https://goo.gl/photos/PMvWPoEx9wpm5z1x8">
+                            <div class="work-img">
+                                <img src="img/teams/11_12.webp" alt="" class="img-fluid">
+                            </div>
+                            <div class="work-content">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <h2 class="w-title">2011-2012 Team</h2>
+                                        <div class="w-more">
+                                            <span class="w-ctegory">The Hulk</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="w-like">
+                                            <span class="ion-ios-plus-outline"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
+    <!--/ Section Portfolio End /-->
+
+    <!--/ Section Testimonials Star /
+  <div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="testimonial-mf" class="owl-carousel owl-theme">
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Xavi Alonso</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
+                  consectetur adipiscing elit.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Marta Socrate</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
+                  consectetur adipiscing elit.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>-->
+
+    <!--/ Section Services Star /-->
+    <section id="sponsors" class="portfolio-mf sect-pt4 route">
+        <div class="section-counter paralax-mf bg-image" style="background-image: url(img/bg_1.JPEG)">
+            <div class="overlay-mf"></div>
+            <div class="container sect-pt4">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="title-box text-center">
+                            <h3 class="title-a" style="color:white">
+                                Sponsors
+                            </h3>
+                            <div class="line-mf"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="title-box text-center">
+                            <p class="subtitle-b">
+                                <!--a href="https://www.baylor.edu/give/index.php?id=49837&a=3&f=0374323"
+                                    style="color:DodgerBlue">Become a Sponsor<a /><br/>-->
+                                <a href="https://bbis.baylor.edu/give"
+                                    style="color:DodgerBlue">Become a Sponsor<a /><br/>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--<div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <p class="subtitle-b" style="color:white">
+              
+            </p>
+          </div>
+        </div>
+      </div>-->
+
+                <div class="row">
+
+
+                    <div class="col-md-1">
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="service-box">
+                            <div class="service-content s-description text-center">
+                                <br/>
+                                <img class="img-fluid" align="middle" src="img/sponsors/partners/GorillaPro-logo-350x284-1-300x243.webp">
+                                <p style="color:white">
+                                    blend
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                    <div class="col-md-4">
+                          <div class="service-box">
+                            <div class="service-content s-description text-center">
+                              <br/><br/>
+                              <img class="img-fluid" src="img/sponsors/green/sae_texas.webp">
+                            </div>
+                          </div>
+                        </div>
+  <div class="col-md-3">
+                    </div>
+                    <<div class="row">
+        <div class="col-md-12">
+
+            <div class="col-md-4">
+                        <div class="service-box">
+                            <div class="service-content s-description text-center">
+                                <br/>
+                                <img class="img-fluid" align="middle" src="img/sponsors/gold/baja_alumni.webp">
+                                <p style="color:white">
+                                    blend
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                    <div class="col-md-4">
+                          <div class="service-box">
+                            <div class="service-content s-description text-center">
+                              <br/><br/>
+                              <img class="img-fluid" src="img/sponsors/partners/SoCal.png">
+                            </div>
+                          </div>
+                        </div>
+                    <!--div class="col-md-4">
+                        <div class="service-box">
+                            <div class="service-content s-description text-center">
+                                <img class="img-fluid" src="img/sponsors/partners/SoCal.png">
+                            </div>
+                        </div>
+                    </div>
+
+                 
+          <!--div class="service-box">
+            <div class="service-content s-description text-center">
+              <img class="img-fluid" align="middle" src="img/sponsors/gold/baja_alumni.webp">
+            </div>
+          </div>
+        </div>
+                   
+
+                     <!--div class="col-md-4">
+                        <div class="service-box">
+                            <div class="service-content s-description text-center">
+                                <br/>
+                                <img class="img-fluid" align="middle" src="img/sponsors/partners/TitanMaD.png">
+                                <p style="color:white">
+                                    blend
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!--<div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <p class="subtitle-b" style="color:white">
+              Bear Sponsors ($2500+):
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-3">
+        </div>
+
+        <div class="col-md-6">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <br/>
+              <img class="img-fluid" align="middle" src="img/sponsors/bear/lockheed.webp">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <p class="subtitle-b" style="color:white">
+              Gold Sponsors ($1500-$2499):
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <img class="img-fluid" align="middle" src="img/sponsors/gold/baja_alumni.webp">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <br/>
+              <img class="img-fluid" src="img/sponsors/gold/depuy.webp">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <br/>
+              <img class="img-fluid" src="img/sponsors/gold/solidworks.webp">
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <p class="subtitle-b" style="color:white">
+              Green Sponsors ($250-$1499):
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <br/>
+              <img class="img-fluid" src="img/sponsors/green/chevron.webp">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="service-content s-description text-center">
+            <p style="color:white">
+              
+              Dr. Dennis O'Neal <br/><br/>
+              Mr. & Mrs. Bill Mearse<br/><br/>
+              Mr. & Mrs. William Buzcek <br/><br/>
+              Mr. Andrew Spencer <br/><br/>
+              Mr. Trae Liller <br/><br/>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-content s-description text-center">
+              <br/><br/>
+              <img class="img-fluid" src="img/sponsors/green/sae_texas.webp">
+            </div>
+          </div>
+        </div>
+
+      </div>-->
+
+
+            </div>
+    </section>
+
+    <!--<section id="calendar" class="portfolio-mf sect-pt4 route">
+        <div class="section-counter paralax-mf bg-image" style="background-image: url(img/bg_2.webp)">
+            <div class="overlay-mfGold"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <center>
+                            <div class="title-box text-center">
+                                <h3 class="title-a" style="color:white">
+                                    Calendar
+                                </h3>
+                                <div class="line-mfWhite"></div>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+
+
+
+
+
+
+                <div class="col-sm-12">
+                    <center>
+                        <!--img src="img/calendar/BAJAapril2022.webp" width="750" height="578">
+                        <small>
+          <!--iframe width="919" height="948" frameborder="0" scrolling="no" src="https://baylor0-my.sharepoint.com/personal/benjamin_sunderman1_baylor_edu/_layouts/15/Doc.aspx?sourcedoc={98fb36ad-7d4c-43a1-b2e1-f041f2a55ccc}&action=embedview&wdAllowInteractivity=False&Item='3'!A1%3AZ45&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>-->
+          <!--<iframe width="919" height="1780" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=8CC72F2EE6FF5C85%2113132&authkey=%21APqltHh_OiB25ng&em=2&wdAllowInteractivity=False&Item='Current'!A1%3AZ45&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>-->
+          <!--iframe width="1050" height="1080" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQz6pqr2_VEILtCgTUSwhSQcSlgnmlCV4Nl1DhfWkF1Ij88DXReShPy_AhAPflnpcbLTNviypmC_abs/pubhtml?widget=true&amp;headers=false"></iframe>-->
+          <!--<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Baylor%20Baja&src=YmF5bG9yYmFqYXNhZUBnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="1000" height="750" frameborder="0" scrolling="no"></iframe>
+                        </small>
+                    </center>
+                </div>
+            </div>
+
+
+            <center>
+                <div class="col-md-7">
+                    <div class="service-box">
+                        <div class="service-content s-description text-center">
+                            <p class="subtitle-b" style="color:black">
+                                </br>
+                                If Calendar does not display correctly,
+                                <a href="https://calendar.google.com/calendar/u/0?cid=YmF5bG9yYmFqYXNhZUBnbWFpbC5jb20"
+                                    style="color:DodgerBlue">Click here.<a /><br/>
+                        </div>
+                    </div>
+                </div>
+            </center>
+        </div>
+    </section>-->
+    <!--/ Section Services End /-->
+
+    <!--/ Section Blog Star /
+  <section id="blog" class="blog-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Blog
+            </h3>
+            <p class="subtitle-a">
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="blog-single.html"><img src="img/post-1.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Travel</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <p class="card-description">
+                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
+                a pellentesque nec,
+                egestas non nisi.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Morgan Freeman</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 10 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="blog-single.html"><img src="img/post-2.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Web Design</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <p class="card-description">
+                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
+                a pellentesque nec,
+                egestas non nisi.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Morgan Freeman</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 10 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="blog-single.html"><img src="img/post-3.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Web Design</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <p class="card-description">
+                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
+                a pellentesque nec,
+                egestas non nisi.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Morgan Freeman</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 10 min
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  / Section Blog End /-->
+
+    <!--/ Section Contact-Footer Star /-->
+    <section class="paralax-mf footer-paralax bg-image sect-mt4 route"
+        style="background-image: url(img/overlay-bg.jpg)">
+        <div class="overlay-mf"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="contact-mf">
+                        <div id="contact" class="box-shadow-full">
+                            <div class="row">
+                                <!--<div class="col-md-6">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      Send Message Us
+                    </h5>
+                  </div>
+                  <div>
+                      <form action="" method="post" role="form" class="contactForm">
+                      <div id="sendmessage">Your message has been sent. Thank you!</div>
+                      <div id="errormessage"></div>
+                      <div class="row">
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                            <div class="form-group">
+                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                              <div class="validation"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12">
+                          <button type="submit" class="button button-a button-big button-rouded">Send Message</button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>-->
+                                <div class="col-md-12">
+                                    <div class="title-box-2 pt-4 pt-md-0">
+                                        <h5 class="title-left">
+                                            Get in Touch
+                                        </h5>
+                                    </div>
+                                    <div class="more-info">
+                                        <p class="lead">
+                                            Feel free to reach out to one the leaders of the Baylor chapter of SAE Baja
+                                            (emails listed below) or reach out on social media!
+                                        </p>
+                                        <ul class="list-ico">
+                                            <li><span class="ion-email"></span>Baylor Baja: <a
+                                                    href="mailto:baylorbajasae@gmail.com">BaylorBajaSAE@gmail.com</a>
+                                            </li>
+                                            <li><span class="ion-email"></span>President: <a
+                                                    href="mailto:Benjamin_Sunderman1@baylor.edu">Benjamin_Sunderman1@baylor.edu</a>
+                                            </li>
+                                            <li><span class="ion-email"></span>Advisor: <a
+                                                    href="mailto:paul_allison@baylor.edu">Paul_Allison@baylor.edu</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="socials">
+                                        <ul>
+                                            <li><a
+                                                    href="https://instagram.com/baylorbaja/"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a>
+                                            </li>
+                                            <li><a
+                                                    href="https://www.facebook.com/SocietyOfAutomotiveEngineersBaylorChapter?ref=aymt_homepage_panel"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a>
+                                            </li>
+                                            <li><a
+                                                    href="https://twitter.com/baylorsae"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a>
+                                            </li>
+                                        </ul>
+                                        <img src="https://grabify.link/G0917A">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="copyright-box">
+                            <!--<p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+              <div class="credits">
+                
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
+                
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              </div>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </section>
+    <!--/ Section Contact-footer End /-->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    <div id="preloader"></div>
+
+    <!-- JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/jquery/jquery-migrate.min.js"></script>
+    <script src="lib/popper/popper.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/counterup/jquery.waypoints.min.js"></script>
+    <script src="lib/counterup/jquery.counterup.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <!-- Contact Form JavaScript File -->
+    <script src="contactform/contactform.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="js/main.js"></script>
+
+</body>
